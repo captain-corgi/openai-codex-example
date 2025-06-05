@@ -29,3 +29,7 @@ This documentation describes the high-level architecture and domain design for a
 
 See the rest of this documentation for details on bounded contexts, domain models, and core use cases.
 
+
+Additional documentation:
+- [Functional Requirements](functional-requirements.md)
+- [Technical Design Document](technical-design-document.md)
